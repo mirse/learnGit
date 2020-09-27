@@ -11,5 +11,5 @@ create new branch
 
 add a banana and apple
 
-add new apple
+add a new apple
 

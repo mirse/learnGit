@@ -13,3 +13,4 @@ add a banana and apple
 
 add a new apple
 
+fix a bug
